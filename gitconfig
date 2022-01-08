@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = abuhajayat@gmail.com
+	name = Ayat AbuHaj
